@@ -1,11 +1,5 @@
 # PlateToProfit-Swiggy-Business-Dashboard
-**An end-to-end interactive sales analytics dashboard built entirely in Microsoft Excel — covering ₹53.01M in food delivery transactions across cities, states, food types, and time periods.**
-
----
-
-## 📌 Project Overview
-
-This project analyzes **Swiggy food delivery data** using Microsoft Excel's advanced features — Power Query, Pivot Tables, dynamic charts, slicers, and conditional formatting — to build a fully interactive business intelligence dashboard.
+**An end-to-end interactive sales analytics dashboard built entirely in POWER BI — covering ₹53.01M in food delivery transactions across cities, states, food types, and time periods.**
 
 ---
 
@@ -127,7 +121,7 @@ This project analyzes **Swiggy food delivery data** using Microsoft Excel's adva
 ---
 ## 🏁 Conclusion
 
-This Swiggy Excel Dashboard analyzes ₹53.01M in sales across 1,97,400 orders and reveals that Bengaluru leads revenue at ₹5.46M, Non-Veg dominates at 65%, and Saturdays are peak order days. Despite a 32.7% Q3 dip, customer ratings remained steady at 4.3 throughout. This project demonstrates that Microsoft Excel alone is capable of delivering powerful, interactive, business-ready insights — no external BI tool required.
+This Swiggy Dashboard analyzes ₹53.01M in sales across 1,97,400 orders and reveals that Bengaluru leads revenue at ₹5.46M, Non-Veg dominates at 65%, and Saturdays are peak order days. Despite a 32.7% Q3 dip, customer ratings remained steady at 4.3 throughout. This project demonstrates that POWER BI alone is capable of delivering powerful, interactive, business-ready insights — no external BI tool required.
 
 
 
